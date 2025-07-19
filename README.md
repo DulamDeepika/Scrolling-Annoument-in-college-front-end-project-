@@ -1,4 +1,4 @@
-# Scrollinmg-Annoument-in-college-front-end-project
+# Scrolling-Annoument-in-college-front-end-project
 Project Title: Scrolling Announcement Board
 **Purpose:**
 The aim of this project is to demonstrate the use of the <marquee> tag to create moving text on a webpage, which can be used to highlight important announcements in an eye-catching manner.
